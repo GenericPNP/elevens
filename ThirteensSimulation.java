@@ -1,3 +1,4 @@
+package elevens;
 /**
  * This is a class that simulates games of Thirteens.
  * See accompanying documents for a description of how Thirteens is played.
